@@ -3,14 +3,9 @@ This work builds on top of release 1.1 from the IMS-Toucan Speech Synthesis Tool
 In order to anonymize our submission, we tried to remove anything in the code that could point towards who we are, but we cannot be certain that our identity cannot be determined from the code. The remainder of the README contains the instructions for using the IMS-Toucan toolkit.
 
 
-
 ### Pre-Generated Audios
 
-You can find pre-generated audios for our paper in the audios/ directory.
-
-### Interactive Demos
-
-[Demo hosted on Huggingface🤗](https://huggingface.co/spaces/AnonDemoMember/multilingual_tts_anonymous_submission)
+[Click here to listen to our demo samples to get a good impression of what can be done with this.](https://anondemos.github.io/Cloning/)
 
 ---
 
